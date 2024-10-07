@@ -4,7 +4,7 @@
 
 <br>
 
-### Варіант 1, модель у середовищі NetLogo:
+### Варіант 6, модель у середовищі NetLogo:
 [Rabbits Grass Weeds](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Rabbits%20Grass%20Weeds.nlogo). Класична модель "заячого лугу".
 
 <br>
